@@ -13,4 +13,3 @@ Important links:
  - [Homepage](https://serpentos.com)
  - [Forums](https://forums.serpentos.com)
  - [Open Collective](https://opencollective.com/serpent-os)
- - 
