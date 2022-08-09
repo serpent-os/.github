@@ -13,3 +13,4 @@ Important links:
  - [Homepage](https://serpentos.com)
  - [Forums](https://forums.serpentos.com)
  - [Open Collective](https://opencollective.com/serpent-os)
+ - [Onboarding instructions](https://github.com/serpent-os/onboarding)
