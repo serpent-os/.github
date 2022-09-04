@@ -2,7 +2,7 @@
 
 This organisation houses all of our core development work on projects like `moss` and `boulder`.
 
-For packaging recipes, you should visit the [snekbook](https://github.com/snekbook) organisation.
+For packaging recipes, you should visit the [snekpit](https://github.com/snekpit) organisation.
 
 At Serpent OS we're not opposed to mixing up technologies, however you'll find that we employ [D](https://dlang.org) for much of our low level and critical tooling, which will not be changing.
 
