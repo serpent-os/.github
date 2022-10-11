@@ -12,5 +12,5 @@ Important links:
 
  - [Homepage](https://serpentos.com)
  - [Forums](https://forums.serpentos.com)
- - [Open Collective](https://opencollective.com/serpent-os)
+ - [Sponsorship](https://github.com/sponsors/ikeycode?o=sd&sc=t)
  - [Onboarding instructions](https://github.com/serpent-os/onboarding)
