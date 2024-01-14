@@ -1,18 +1,17 @@
 # Welcome to Serpent OS
 
-This organisation houses all of our core development work on projects like `moss` and `boulder`.
+Welcome to the development home of Serpent OS
 
-For packaging recipes, you should visit the [snekpit](https://github.com/snekpit) organisation.
+## Recipes
 
-## STOP THE PRESS
+Visit the [recipes](https://github.com/serpent-os/recipes) repo for all packaging
 
-Our current primary project is the [Blazing Fast](https://github.com/orgs/serpent-os/projects/4) project
-where we're rewriting core components in Rust, infra in Go, and decorating the whole thing with an abundance
-of Rocket emojis.
+## Tooling
 
-See also: https://serpentos.com/blog/2023/09/06/oxidised-moss/
+ - [moss-rs](https://github.com/serpent-os/moss-rs)
+ - [boulder](https://github.com/serpent-os/boulder) (Scheduled for deprecation)
 
-Important links:
+## Important links:
 
  - [Homepage](https://serpentos.com)
  - [Forums](https://forums.serpentos.com)
