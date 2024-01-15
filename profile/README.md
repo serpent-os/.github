@@ -8,7 +8,7 @@ Visit the [recipes](https://github.com/serpent-os/recipes) repo for all packagin
 
 ## Tooling
 
- - [moss-rs](https://github.com/serpent-os/moss-rs)
+ - [moss](https://github.com/serpent-os/moss)
  - [boulder](https://github.com/serpent-os/boulder) (Scheduled for deprecation)
 
 ## Important links:
