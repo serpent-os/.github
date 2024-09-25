@@ -4,11 +4,17 @@ Welcome to the development home of Serpent OS
 
 ## Recipes
 
-Visit the [recipes](https://github.com/serpent-os/recipes) repo for all packaging
+Visit the [recipes](https://github.com/serpent-os/recipes) repo for all packaging.
 
 ## Tooling
 
- - `moss` and `boulder` (hosted in the [tools](https://github.com/serpent-os/tools) repo)
+The `moss` and `boulder` tools are hosted in the [tools](https://github.com/serpent-os/tools) repo.
+
+## Documentation
+
+The Serpent OS documentation lives over at https://serpentos.com/docs.
+
+Contributors can submit PRs to the documentation in the [serpentos.com](https://github.com/serpent-os/serpentos.com) repo.
 
 ## Important links:
 
