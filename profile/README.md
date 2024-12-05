@@ -2,6 +2,9 @@
 
 Welcome to the development home of Serpent OS - a modern, innovative, and forward-thinking Linux distribution.
 
+![Screenshot From 2024-12-05 11-42-07](https://github.com/user-attachments/assets/3bb12d8f-4c45-4c52-83da-f0d83bcc6b92)
+
+
 ## 🧾 Recipes
 
 Head over to our [recipes](https://github.com/serpent-os/recipes) repository if you want to improve our offering of packages, or fix an existing package.
