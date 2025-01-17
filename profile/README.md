@@ -23,3 +23,4 @@ Dive into the [Serpent OS documentation](https://serpentos.com/docs) to get star
 - [Discussions](https://github.com/orgs/serpent-os/discussions): Join in the discussion
 - [Sponsorship](https://github.com/sponsors/ikeycode?o=sd&sc=t): Support the development of Serpent OS.
 - [Onboarding Instructions](https://github.com/serpent-os/tools/#onboarding): Get started with Serpent OS development.
+- [Contributor agreement](https://gist.github.com/ikeycode/1bfba3cb20d954c40c3a07fb6545337f)
